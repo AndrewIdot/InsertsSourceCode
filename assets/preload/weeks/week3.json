@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["IDK", "fab", [137, 205, 232]],
+		["Friendly Damn", "fab", [137, 205, 232]],
+		["Paralysis", "fab", [137, 205, 232]]
+	],
+
+	"weekCharacters": [
+		"blank",
+		"fab",
+		"blank"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Glasses Man",
+	"difficulties": "hard,osu",
+	"weekBefore": "week2",
+	"weekName": "Week Fab",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Not A Cat", "jsona", [252, 150, 215]],
+		["High", "jsona", [252, 150, 215]],
+		["Milf", "jsona", [252, 150, 215]]
+	],
+	
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "jsona lol",
+	"difficulties": "hard",
+	"weekBefore": "week3",
+	"weekName": "Jsona Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

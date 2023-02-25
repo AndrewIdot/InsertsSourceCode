@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="get them yourself.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bitmap 4" x="0" y="0" width="420" height="420"/>
+	<SubTexture name="Bitmap 7" x="420" y="0" width="225" height="119"/>
+	<SubTexture name="Bitmap 7 copy" x="645" y="0" width="343" height="211"/>
+	<SubTexture name="Dad Chest0000" x="988" y="0" width="358" height="369"/>
+	<SubTexture name="Dad default head0000" x="1346" y="0" width="195" height="255"/>
+	<SubTexture name="Dad default head0001" x="1346" y="0" width="195" height="255"/>
+	<SubTexture name="Dad default head0002" x="1346" y="0" width="195" height="255"/>
+	<SubTexture name="Dad default head0003" x="1346" y="0" width="195" height="255"/>
+	<SubTexture name="Dad idle dance0000" x="1541" y="0" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0001" x="1541" y="0" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0002" x="1960" y="0" width="429" height="759" frameX="0" frameY="-8" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0003" x="1960" y="0" width="429" height="759" frameX="0" frameY="-8" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0004" x="2389" y="0" width="424" height="757" frameX="-2" frameY="-10" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0005" x="2389" y="0" width="424" height="757" frameX="-2" frameY="-10" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0006" x="2813" y="0" width="423" height="759" frameX="-3" frameY="-8" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0007" x="2813" y="0" width="423" height="759" frameX="-3" frameY="-8" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0008" x="3236" y="0" width="419" height="766" frameX="-5" frameY="-1" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0009" x="3236" y="0" width="419" height="766" frameX="-5" frameY="-1" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0010" x="1541" y="0" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0011" x="1541" y="0" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0012" x="1541" y="0" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Lleg pose right0000" x="3655" y="0" width="158" height="240"/>
+	<SubTexture name="Skem Down0000" x="3813" y="0" width="405" height="595" frameX="0" frameY="-14" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0001" x="3813" y="0" width="405" height="595" frameX="0" frameY="-14" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0002" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0003" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0004" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0005" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0006" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0007" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0008" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0009" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0010" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0011" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0012" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0013" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Down0014" x="4218" y="0" width="370" height="614" frameX="-6" frameY="0" frameWidth="405" frameHeight="614"/>
+	<SubTexture name="Skem Idle0000" x="4588" y="0" width="332" height="683" frameX="-26" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0001" x="4588" y="0" width="332" height="683" frameX="-26" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0002" x="4588" y="0" width="332" height="683" frameX="-26" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0003" x="4588" y="0" width="332" height="683" frameX="-26" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0004" x="4588" y="0" width="332" height="683" frameX="-26" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0005" x="4920" y="0" width="389" height="653" frameX="0" frameY="-29" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0006" x="4920" y="0" width="389" height="653" frameX="0" frameY="-29" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0007" x="4920" y="0" width="389" height="653" frameX="0" frameY="-29" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0008" x="5309" y="0" width="350" height="678" frameX="-14" frameY="-6" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0009" x="5309" y="0" width="350" height="678" frameX="-14" frameY="-6" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0010" x="5309" y="0" width="350" height="678" frameX="-14" frameY="-6" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0011" x="4588" y="0" width="332" height="683" frameX="-26" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0012" x="4588" y="0" width="332" height="683" frameX="-26" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Idle0013" x="5659" y="0" width="319" height="683" frameX="-30" frameY="0" frameWidth="389" frameHeight="684"/>
+	<SubTexture name="Skem Left0000" x="5978" y="0" width="448" height="635" frameX="0" frameY="-16" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0001" x="5978" y="0" width="448" height="635" frameX="0" frameY="-16" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0002" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0003" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0004" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0005" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0006" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0007" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0008" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Left0009" x="6426" y="0" width="401" height="650" frameX="-27" frameY="0" frameWidth="448" frameHeight="651"/>
+	<SubTexture name="Skem Right0000" x="6827" y="0" width="287" height="687"/>
+	<SubTexture name="Skem Right0001" x="6827" y="0" width="287" height="687"/>
+	<SubTexture name="Skem Right0002" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0003" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0004" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0005" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0006" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0007" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0008" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0009" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0010" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0011" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0012" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Right0013" x="7114" y="0" width="253" height="687" frameX="-3" frameY="0" frameWidth="287" frameHeight="687"/>
+	<SubTexture name="Skem Up0000" x="7367" y="0" width="328" height="703" frameX="0" frameY="-1" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0001" x="7367" y="0" width="328" height="703" frameX="0" frameY="-1" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0002" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0003" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0004" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0005" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0006" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0007" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0008" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0009" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0010" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0011" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0012" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0013" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="Skem Up0014" x="7695" y="0" width="331" height="705" frameX="-2" frameY="0" frameWidth="333" frameHeight="705"/>
+	<SubTexture name="arm lean0000" x="8026" y="0" width="105" height="378"/>
+	<SubTexture name="back feet0000" x="0" y="767" width="326" height="136" frameX="0" frameY="0" frameWidth="330" frameHeight="183"/>
+	<SubTexture name="back feet0001" x="326" y="767" width="328" height="179" frameX="-2" frameY="-4" frameWidth="330" frameHeight="183"/>
+	<SubTexture name="back foot 10000" x="654" y="767" width="120" height="103"/>
+	<SubTexture name="back foot 20000" x="774" y="767" width="169" height="98"/>
+	<SubTexture name="back foot 30000" x="943" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="back foot 40000" x="943" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="bg forearm0000" x="943" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="bg shoulder0000" x="943" y="767" width="104" height="211"/>
+	<SubTexture name="body pose right0000" x="1047" y="767" width="205" height="243"/>
+	<SubTexture name="boyfried dooodle0000" x="1252" y="767" width="955" height="550"/>
+	<SubTexture name="boyfriend on phone doodle0000" x="2207" y="767" width="627" height="529"/>
+	<SubTexture name="chest down0000" x="2834" y="767" width="153" height="215"/>
+	<SubTexture name="color pallete thing kfsdjghnn" x="2987" y="767" width="178" height="102"/>
+	<SubTexture name="cory left pose sketch0000" x="3165" y="767" width="619" height="785"/>
+	<SubTexture name="dad mic idle hand0000" x="3784" y="767" width="146" height="111"/>
+	<SubTexture name="dad wasit0000" x="3930" y="767" width="332" height="404"/>
+	<SubTexture name="doodles0000" x="4262" y="767" width="785" height="1101"/>
+	<SubTexture name="down face 10000" x="5047" y="767" width="126" height="156" frameX="0" frameY="0" frameWidth="127" frameHeight="156"/>
+	<SubTexture name="down face 10001" x="5047" y="767" width="126" height="156" frameX="0" frameY="0" frameWidth="127" frameHeight="156"/>
+	<SubTexture name="down face 10002" x="5173" y="767" width="127" height="156"/>
+	<SubTexture name="down face 10003" x="5173" y="767" width="127" height="156"/>
+	<SubTexture name="down face 20000" x="5300" y="767" width="128" height="157"/>
+	<SubTexture name="evil red eyes0000" x="5428" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="evil red eyes0001" x="5428" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="evil red eyes0002" x="5428" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="evil red eyes0003" x="5428" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="evil stalkers0000" x="5428" y="767" width="2176" height="1648"/>
+	<SubTexture name="eyeglow0000" x="7604" y="767" width="117" height="153"/>
+	<SubTexture name="eyeglow0001" x="7604" y="767" width="117" height="153"/>
+	<SubTexture name="eyeglow0002" x="7721" y="767" width="117" height="153"/>
+	<SubTexture name="eyeglow0003" x="7721" y="767" width="117" height="153"/>
+	<SubTexture name="hair squiggle0000" x="7838" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="hand on hip0000" x="7838" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="hand on hip0001" x="7838" y="767" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="hand on hip eviler0000" x="7838" y="767" width="192" height="195"/>
+	<SubTexture name="hat sdzvfhjknlz" x="0" y="2415" width="420" height="420"/>
+	<SubTexture name="left arm pose right0000" x="420" y="2415" width="194" height="174"/>
+	<SubTexture name="left face 10000" x="614" y="2415" width="208" height="135"/>
+	<SubTexture name="left face 10001" x="614" y="2415" width="208" height="135"/>
+	<SubTexture name="left face 10002" x="822" y="2415" width="196" height="135" frameX="-12" frameY="0" frameWidth="208" frameHeight="135"/>
+	<SubTexture name="left face 10003" x="822" y="2415" width="196" height="135" frameX="-12" frameY="0" frameWidth="208" frameHeight="135"/>
+	<SubTexture name="left face 20000" x="1018" y="2415" width="193" height="135"/>
+	<SubTexture name="left forearm0000" x="1211" y="2415" width="92" height="94"/>
+	<SubTexture name="left post sketch0000" x="1303" y="2415" width="450" height="544"/>
+	<SubTexture name="leg bend0000" x="1753" y="2415" width="205" height="345"/>
+	<SubTexture name="leg out left0000" x="1958" y="2415" width="259" height="268"/>
+	<SubTexture name="me when your mom0000" x="2217" y="2415" width="69" height="76"/>
+	<SubTexture name="mic hand left0000" x="2286" y="2415" width="111" height="199"/>
+	<SubTexture name="mic hand right0000" x="2397" y="2415" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="moe concept 10000" x="2397" y="2415" width="929" height="730"/>
+	<SubTexture name="mom body0000" x="3326" y="2415" width="145" height="212"/>
+	<SubTexture name="mom body lean left0000" x="3471" y="2415" width="294" height="277"/>
+	<SubTexture name="mom default face0000" x="3765" y="2415" width="68" height="24"/>
+	<SubTexture name="mom default face0001" x="3765" y="2415" width="68" height="24"/>
+	<SubTexture name="mom default face0002" x="3765" y="2415" width="68" height="24"/>
+	<SubTexture name="mom default face0003" x="3765" y="2415" width="68" height="24"/>
+	<SubTexture name="mom face up pose0000" x="3833" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0001" x="3833" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0002" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0003" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0004" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0005" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0006" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0007" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0008" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0009" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0010" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0011" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0012" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0013" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0014" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0015" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0016" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0017" x="4066" y="2415" width="117" height="153"/>
+	<SubTexture name="mom face up pose0018" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom face up pose0019" x="3950" y="2415" width="116" height="153" frameX="-1" frameY="0" frameWidth="117" frameHeight="153"/>
+	<SubTexture name="mom hair default0000" x="4183" y="2415" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="mom head default0000" x="4183" y="2415" width="203" height="280"/>
+	<SubTexture name="mom left leg0000" x="4386" y="2415" width="91" height="230"/>
+	<SubTexture name="mom left leg copy0000" x="4477" y="2415" width="115" height="229"/>
+	<SubTexture name="mom mic arm0000" x="4592" y="2415" width="157" height="217"/>
+	<SubTexture name="mom right leg0000" x="4749" y="2415" width="92" height="230"/>
+	<SubTexture name="posing concepts" x="4841" y="2415" width="496" height="1000"/>
+	<SubTexture name="red eyes slim0000" x="5337" y="2415" width="208" height="84"/>
+	<SubTexture name="red eyes slim0001" x="5337" y="2415" width="208" height="84"/>
+	<SubTexture name="red eyes slim0002" x="5545" y="2415" width="197" height="84" frameX="-11" frameY="0" frameWidth="208" frameHeight="84"/>
+	<SubTexture name="red eyes slim0003" x="5545" y="2415" width="197" height="84" frameX="-11" frameY="0" frameWidth="208" frameHeight="84"/>
+	<SubTexture name="right arm hip up0000" x="5742" y="2415" width="97" height="195"/>
+	<SubTexture name="right face 10000" x="5839" y="2415" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="right face 10001" x="5839" y="2415" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="right face 10002" x="5839" y="2415" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="right face 10003" x="5839" y="2415" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="right face 20000" x="5839" y="2415" width="117" height="147"/>
+	<SubTexture name="right mic hand0000" x="5956" y="2415" width="100" height="134"/>
+	<SubTexture name="rleg pose right0000" x="6056" y="2415" width="92" height="229"/>
+	<SubTexture name="stalker lover concept 10000" x="6148" y="2415" width="390" height="609"/>
+	<SubTexture name="stan doodle0000" x="6538" y="2415" width="591" height="787"/>
+	<SubTexture name="the funny" x="7129" y="2415" width="352" height="352"/>
+	<SubTexture name="thigh 1 0000" x="7481" y="2415" width="126" height="233"/>
+	<SubTexture name="thigh 20000" x="7607" y="2415" width="154" height="219"/>
+	<SubTexture name="wrist bangles0000" x="7761" y="2415" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

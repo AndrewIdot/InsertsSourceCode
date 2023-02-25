@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Fab",
+	"position": [
+		505,
+		76
+	],
+	"scale": 1,
+	"idle_anim": "FAB_MENU_IDLE instance 1",
+	"confirm_anim": "FAB_MENU_CONFIRM instance 1"
+}

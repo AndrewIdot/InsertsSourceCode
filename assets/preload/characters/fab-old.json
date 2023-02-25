@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "fab idle"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fab left"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fab down"
+		},
+		{
+			"offsets": [
+				8,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fab up"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fab right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fabtastic-old",
+	"position": [
+		-430,
+		-710
+	],
+	"healthicon": "fab-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		28,
+		166
+	],
+	"camera_position": [
+		430,
+		590
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

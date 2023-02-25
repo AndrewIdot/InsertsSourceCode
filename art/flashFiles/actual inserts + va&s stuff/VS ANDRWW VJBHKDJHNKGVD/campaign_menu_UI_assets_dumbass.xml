@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_assets_dumbass.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Andrew Idle BLACK LINES0000" x="0" y="0" width="280" height="598" frameX="-42" frameY="0" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0001" x="0" y="0" width="280" height="598" frameX="-42" frameY="0" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0002" x="280" y="0" width="306" height="594" frameX="-26" frameY="-6" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0003" x="280" y="0" width="306" height="594" frameX="-26" frameY="-6" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0004" x="586" y="0" width="337" height="594" frameX="0" frameY="-5" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0005" x="586" y="0" width="337" height="594" frameX="0" frameY="-5" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0006" x="923" y="0" width="321" height="596" frameX="-10" frameY="-3" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0007" x="923" y="0" width="321" height="596" frameX="-10" frameY="-3" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0008" x="1244" y="0" width="299" height="598" frameX="-19" frameY="0" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0009" x="1244" y="0" width="299" height="598" frameX="-19" frameY="0" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0010" x="1543" y="0" width="279" height="598" frameX="-43" frameY="0" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0011" x="1543" y="0" width="279" height="598" frameX="-43" frameY="0" frameWidth="337" frameHeight="600"/>
+	<SubTexture name="Andrew Idle BLACK LINES0012" x="0" y="598" width="279" height="598" frameX="-43" frameY="0" frameWidth="337" frameHeight="600"/>
+</TextureAtlas>

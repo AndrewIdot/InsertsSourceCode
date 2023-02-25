@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Andrew Left"
+		},
+		{
+			"offsets": [
+				-40,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Andrew Down"
+		},
+		{
+			"offsets": [
+				-6,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Andrew Up"
+		},
+		{
+			"offsets": [
+				-29,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Andrew Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Andrew Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WOAH BAMDREW",
+	"position": [
+		50,
+		130
+	],
+	"healthicon": "andrew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		220
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

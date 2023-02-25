@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				54,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "andrew left"
+		},
+		{
+			"offsets": [
+				2,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "andrew down"
+		},
+		{
+			"offsets": [
+				17,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "andrew up"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "andrew right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "andrew idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AndrewNew",
+	"position": [
+		130,
+		30
+	],
+	"healthicon": "andrew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		220
+	],
+	"camera_position": [
+		-50,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

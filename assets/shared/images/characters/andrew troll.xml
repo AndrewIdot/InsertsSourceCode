@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="andrew troll.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="andrew troll down0000" x="0" y="0" width="298" height="550" frameX="0" frameY="-58" frameWidth="298" frameHeight="612"/>
+	<SubTexture name="andrew troll down0001" x="0" y="0" width="298" height="550" frameX="0" frameY="-58" frameWidth="298" frameHeight="612"/>
+	<SubTexture name="andrew troll down0002" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0003" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0004" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0005" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0006" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0007" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0008" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0009" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0010" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0011" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0012" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0013" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0014" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0015" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0016" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0017" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0018" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll down0019" x="298" y="0" width="298" height="612"/>
+	<SubTexture name="andrew troll idle0000" x="596" y="0" width="762" height="395" frameX="0" frameY="-162" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0001" x="1358" y="0" width="719" height="436" frameX="-22" frameY="-121" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0002" x="2077" y="0" width="676" height="476" frameX="-43" frameY="-81" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0003" x="2753" y="0" width="632" height="517" frameX="-65" frameY="-40" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0004" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0005" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0006" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0007" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0008" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0009" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0010" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0011" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0012" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0013" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0014" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0015" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0016" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0017" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0018" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll idle0019" x="3385" y="0" width="590" height="557" frameX="-86" frameY="0" frameWidth="762" frameHeight="557"/>
+	<SubTexture name="andrew troll left0000" x="0" y="612" width="677" height="396"/>
+	<SubTexture name="andrew troll left0001" x="0" y="612" width="677" height="396"/>
+	<SubTexture name="andrew troll left0002" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0003" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0004" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0005" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0006" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0007" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0008" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0009" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0010" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0011" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0012" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0013" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0014" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0015" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0016" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0017" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0018" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll left0019" x="677" y="612" width="636" height="396" frameX="-40" frameY="0" frameWidth="677" frameHeight="396"/>
+	<SubTexture name="andrew troll right0000" x="1313" y="612" width="655" height="428" frameX="0" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0001" x="1968" y="612" width="593" height="437" frameX="-31" frameY="0" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0002" x="2561" y="612" width="535" height="437" frameX="-63" frameY="0" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0003" x="3096" y="612" width="518" height="429" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0004" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0005" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0006" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0007" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0008" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0009" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0010" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0011" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0012" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0013" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0014" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0015" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0016" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0017" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0018" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll right0019" x="0" y="1049" width="518" height="428" frameX="-93" frameY="-4" frameWidth="655" frameHeight="437"/>
+	<SubTexture name="andrew troll up0000" x="518" y="1049" width="609" height="715"/>
+	<SubTexture name="andrew troll up0001" x="1127" y="1049" width="609" height="608" frameX="0" frameY="-106" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0002" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0003" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0004" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0005" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0006" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0007" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0008" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0009" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0010" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0011" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0012" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0013" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0014" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0015" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0016" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0017" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0018" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+	<SubTexture name="andrew troll up0019" x="1736" y="1049" width="609" height="501" frameX="0" frameY="-212" frameWidth="609" frameHeight="715"/>
+</TextureAtlas>

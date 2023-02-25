@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jsona bootleg.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jsona idle0000" x="0" y="0" width="684" height="489" frameX="-56" frameY="0" frameWidth="796" frameHeight="489"/>
+	<SubTexture name="jsona idle0001" x="684" y="0" width="696" height="472" frameX="-50" frameY="-17" frameWidth="796" frameHeight="489"/>
+	<SubTexture name="jsona idle0002" x="0" y="489" width="764" height="409" frameX="-16" frameY="-80" frameWidth="796" frameHeight="489"/>
+	<SubTexture name="jsona idle0003" x="764" y="489" width="796" height="319" frameX="0" frameY="-169" frameWidth="796" frameHeight="489"/>
+	<SubTexture name="jsona idle0004" x="764" y="489" width="796" height="319" frameX="0" frameY="-169" frameWidth="796" frameHeight="489"/>
+	<SubTexture name="jsona idle0005" x="0" y="489" width="764" height="409" frameX="-16" frameY="-80" frameWidth="796" frameHeight="489"/>
+	<SubTexture name="jsona idle0006" x="684" y="0" width="696" height="472" frameX="-50" frameY="-17" frameWidth="796" frameHeight="489"/>
+	<SubTexture name="jsona idle0007" x="0" y="0" width="684" height="489" frameX="-56" frameY="0" frameWidth="796" frameHeight="489"/>
+</TextureAtlas>

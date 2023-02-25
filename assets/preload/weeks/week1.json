@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Idotic", "andrew", [146, 113, 253]],
+		["Diss n piss", "andrew", [146, 113, 253]],
+		["Firearms", "andrew-gun", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Idotic Encounter",
+	"difficulties": "hard",
+	"weekBefore": "tutorial",
+	"weekName": "Andrew Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

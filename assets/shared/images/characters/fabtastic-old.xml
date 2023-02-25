@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fabtastic eeee.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fab down0000" x="0" y="0" width="1573" height="2191" frameX="0" frameY="-27" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0001" x="0" y="0" width="1573" height="2191" frameX="0" frameY="-27" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0002" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0003" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0004" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0005" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0006" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0007" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0008" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0009" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0010" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0011" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0012" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0013" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab down0014" x="1573" y="0" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1573" frameHeight="2223"/>
+	<SubTexture name="fab idle0000" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0001" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0002" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0003" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0004" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0005" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0006" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0007" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0008" x="3130" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0009" x="4687" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0010" x="4687" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0011" x="6244" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0012" x="6244" y="0" width="1557" height="2223"/>
+	<SubTexture name="fab idle0013" x="0" y="2223" width="1557" height="2223"/>
+	<SubTexture name="fab idle0014" x="0" y="2223" width="1557" height="2223"/>
+	<SubTexture name="fab idle0015" x="1557" y="2223" width="1557" height="2223"/>
+	<SubTexture name="fab idle0016" x="1557" y="2223" width="1557" height="2223"/>
+	<SubTexture name="fab idle0017" x="1557" y="2223" width="1557" height="2223"/>
+	<SubTexture name="fab left0000" x="3114" y="2223" width="1647" height="2223"/>
+	<SubTexture name="fab left0001" x="3114" y="2223" width="1647" height="2223"/>
+	<SubTexture name="fab left0002" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0003" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0004" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0005" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0006" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0007" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0008" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0009" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0010" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0011" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0012" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0013" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab left0014" x="4761" y="2223" width="1557" height="2223" frameX="-77" frameY="0" frameWidth="1647" frameHeight="2223"/>
+	<SubTexture name="fab right0000" x="6318" y="2223" width="1579" height="2223"/>
+	<SubTexture name="fab right0001" x="6318" y="2223" width="1579" height="2223"/>
+	<SubTexture name="fab right0002" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0003" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0004" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0005" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0006" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0007" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0008" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0009" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0010" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0011" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0012" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0013" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab right0014" x="0" y="4446" width="1557" height="2223" frameX="0" frameY="0" frameWidth="1579" frameHeight="2223"/>
+	<SubTexture name="fab up0000" x="1557" y="4446" width="1597" height="2264"/>
+	<SubTexture name="fab up0001" x="1557" y="4446" width="1597" height="2264"/>
+	<SubTexture name="fab up0002" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0003" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0004" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0005" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0006" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0007" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0008" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0009" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0010" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0011" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0012" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0013" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+	<SubTexture name="fab up0014" x="3154" y="4446" width="1557" height="2223" frameX="-29" frameY="-34" frameWidth="1597" frameHeight="2264"/>
+</TextureAtlas>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AndrewNew.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="andrew down0000" x="0" y="0" width="367" height="763" frameX="-2" frameY="-22" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0001" x="0" y="0" width="367" height="763" frameX="-2" frameY="-22" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0002" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0003" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0004" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0005" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0006" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0007" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0008" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0009" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0010" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0011" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0012" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0013" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew down0014" x="367" y="0" width="359" height="786" frameX="0" frameY="0" frameWidth="369" frameHeight="786"/>
+	<SubTexture name="andrew idle0000" x="726" y="0" width="379" height="799" frameX="0" frameY="-6" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0001" x="726" y="0" width="379" height="799" frameX="0" frameY="-6" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0002" x="1105" y="0" width="378" height="801" frameX="-1" frameY="-4" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0003" x="1105" y="0" width="378" height="801" frameX="-1" frameY="-4" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0004" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0005" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0006" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0007" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0008" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0009" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0010" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0011" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0012" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0013" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew idle0014" x="1483" y="0" width="375" height="806" frameX="-1" frameY="0" frameWidth="379" frameHeight="806"/>
+	<SubTexture name="andrew left0000" x="1858" y="0" width="397" height="806"/>
+	<SubTexture name="andrew left0001" x="1858" y="0" width="397" height="806"/>
+	<SubTexture name="andrew left0002" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0003" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0004" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0005" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0006" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0007" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0008" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0009" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0010" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0011" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0012" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0013" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew left0014" x="2255" y="0" width="383" height="806" frameX="-13" frameY="0" frameWidth="397" frameHeight="806"/>
+	<SubTexture name="andrew right0000" x="2638" y="0" width="432" height="806"/>
+	<SubTexture name="andrew right0001" x="2638" y="0" width="432" height="806"/>
+	<SubTexture name="andrew right0002" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0003" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0004" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0005" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0006" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0007" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0008" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0009" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0010" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0011" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0012" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0013" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew right0014" x="3070" y="0" width="414" height="806" frameX="0" frameY="0" frameWidth="432" frameHeight="806"/>
+	<SubTexture name="andrew up0000" x="3484" y="0" width="379" height="849" frameX="0" frameY="0" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0001" x="3484" y="0" width="379" height="849" frameX="0" frameY="0" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0002" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0003" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0004" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0005" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0006" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0007" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0008" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0009" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0010" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0011" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0012" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0013" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0014" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0015" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0016" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0017" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0018" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0019" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0020" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0021" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0022" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0023" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="andrew up0024" x="0" y="849" width="385" height="814" frameX="-4" frameY="-32" frameWidth="389" frameHeight="849"/>
+	<SubTexture name="bullshit0000" x="385" y="849" width="452" height="64"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Crossroads", "skem", [34, 51, 68]],
+		["Project", "skem-touhou", [34, 51, 68]],
+		["Blockser", "skem-bloxxer", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Funkin.rblx",
+	"difficulties": "hard",
+	"weekBefore": "week1",
+	"weekName": "Skem Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

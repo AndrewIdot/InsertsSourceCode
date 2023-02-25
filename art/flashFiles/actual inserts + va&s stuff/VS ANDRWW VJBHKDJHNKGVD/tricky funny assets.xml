@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tricky funny assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EX Down0000" x="0" y="0" width="301" height="592" frameX="-26" frameY="-4" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0001" x="0" y="0" width="301" height="592" frameX="-26" frameY="-4" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0002" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0003" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0004" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0005" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0006" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0007" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0008" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0009" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0010" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0011" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0012" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0013" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0014" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Down0015" x="301" y="0" width="307" height="594" frameX="0" frameY="0" frameWidth="327" frameHeight="596"/>
+	<SubTexture name="EX Idle0000" x="608" y="0" width="335" height="613" frameX="0" frameY="0" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0001" x="608" y="0" width="335" height="613" frameX="0" frameY="0" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0002" x="943" y="0" width="323" height="608" frameX="-22" frameY="-7" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0003" x="943" y="0" width="323" height="608" frameX="-22" frameY="-7" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0004" x="1266" y="0" width="335" height="609" frameX="-15" frameY="-5" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0005" x="1266" y="0" width="335" height="609" frameX="-15" frameY="-5" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0006" x="1601" y="0" width="325" height="611" frameX="-19" frameY="-3" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0007" x="1601" y="0" width="325" height="611" frameX="-19" frameY="-3" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0008" x="1926" y="0" width="328" height="612" frameX="-3" frameY="-1" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0009" x="1926" y="0" width="328" height="612" frameX="-3" frameY="-1" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0010" x="2254" y="0" width="335" height="613" frameX="0" frameY="0" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0011" x="2254" y="0" width="335" height="613" frameX="0" frameY="0" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Idle0012" x="2589" y="0" width="335" height="613" frameX="0" frameY="0" frameWidth="350" frameHeight="615"/>
+	<SubTexture name="EX Tricky LEFT0000" x="2924" y="0" width="306" height="620" frameX="0" frameY="0" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0001" x="2924" y="0" width="306" height="620" frameX="0" frameY="0" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0002" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0003" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0004" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0005" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0006" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0007" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0008" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0009" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0010" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0011" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0012" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0013" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0014" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky LEFT0015" x="3230" y="0" width="310" height="617" frameX="-1" frameY="-3" frameWidth="311" frameHeight="620"/>
+	<SubTexture name="EX Tricky RIGHT0000" x="3540" y="0" width="305" height="623" frameX="-5" frameY="0" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0001" x="3540" y="0" width="305" height="623" frameX="-5" frameY="0" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0002" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0003" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0004" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0005" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0006" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0007" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0008" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0009" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0010" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0011" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0012" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0013" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0014" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0015" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0016" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0017" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky RIGHT0018" x="0" y="623" width="304" height="622" frameX="0" frameY="-1" frameWidth="310" frameHeight="623"/>
+	<SubTexture name="EX Tricky Up0000" x="304" y="623" width="305" height="630" frameX="0" frameY="0" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0001" x="304" y="623" width="305" height="630" frameX="0" frameY="0" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0002" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0003" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0004" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0005" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0006" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0007" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0008" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0009" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0010" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0011" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0012" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0013" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0014" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0015" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0016" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0017" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0018" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0019" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0020" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0021" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0022" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0023" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0024" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0025" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0026" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0027" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0028" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0029" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0030" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0031" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0032" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0033" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0034" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0035" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0036" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0037" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0038" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0039" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0040" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0041" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0042" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0043" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0044" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0045" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0046" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0047" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0048" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0049" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0050" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0051" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0052" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0053" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0054" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0055" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0056" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0057" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0058" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="EX Tricky Up0059" x="609" y="623" width="309" height="625" frameX="-11" frameY="-7" frameWidth="320" frameHeight="632"/>
+	<SubTexture name="SPAWN Sprite0000" x="918" y="623" width="364" height="613" frameX="-80" frameY="0" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0001" x="918" y="623" width="364" height="613" frameX="-80" frameY="0" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0002" x="1282" y="623" width="360" height="608" frameX="-102" frameY="-7" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0003" x="1282" y="623" width="360" height="608" frameX="-102" frameY="-7" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0004" x="1642" y="623" width="315" height="609" frameX="-101" frameY="-5" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0005" x="1642" y="623" width="315" height="609" frameX="-101" frameY="-5" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0006" x="1957" y="623" width="514" height="611" frameX="0" frameY="-3" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0007" x="1957" y="623" width="514" height="611" frameX="0" frameY="-3" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0008" x="2471" y="623" width="401" height="612" frameX="-77" frameY="-1" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0009" x="2471" y="623" width="401" height="612" frameX="-77" frameY="-1" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0010" x="2872" y="623" width="377" height="613" frameX="-80" frameY="0" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0011" x="2872" y="623" width="377" height="613" frameX="-80" frameY="0" frameWidth="514" frameHeight="615"/>
+	<SubTexture name="SPAWN Sprite0012" x="3249" y="623" width="335" height="613" frameX="-80" frameY="0" frameWidth="514" frameHeight="615"/>
+</TextureAtlas>

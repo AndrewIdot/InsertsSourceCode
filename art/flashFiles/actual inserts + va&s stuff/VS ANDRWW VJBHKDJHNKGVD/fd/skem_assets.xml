@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skem_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Skem Down0000" x="0" y="0" width="416" height="596" frameX="0" frameY="-14" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0001" x="0" y="0" width="416" height="596" frameX="0" frameY="-14" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0002" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0003" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0004" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0005" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0006" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0007" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0008" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0009" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0010" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0011" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0012" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0013" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Down0014" x="416" y="0" width="383" height="616" frameX="-6" frameY="0" frameWidth="416" frameHeight="616"/>
+	<SubTexture name="Skem Idle0000" x="799" y="0" width="334" height="679" frameX="-22" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0001" x="799" y="0" width="334" height="679" frameX="-22" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0002" x="799" y="0" width="334" height="679" frameX="-22" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0003" x="799" y="0" width="334" height="679" frameX="-22" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0004" x="799" y="0" width="334" height="679" frameX="-22" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0005" x="1133" y="0" width="367" height="661" frameX="0" frameY="-17" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0006" x="1133" y="0" width="367" height="661" frameX="0" frameY="-17" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0007" x="1133" y="0" width="367" height="661" frameX="0" frameY="-17" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0008" x="1500" y="0" width="349" height="675" frameX="-10" frameY="-5" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0009" x="1500" y="0" width="349" height="675" frameX="-10" frameY="-5" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0010" x="1500" y="0" width="349" height="675" frameX="-10" frameY="-5" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0011" x="799" y="0" width="334" height="679" frameX="-22" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0012" x="799" y="0" width="334" height="679" frameX="-22" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Idle0013" x="1849" y="0" width="325" height="679" frameX="-27" frameY="0" frameWidth="367" frameHeight="680"/>
+	<SubTexture name="Skem Left0000" x="2174" y="0" width="446" height="628" frameX="0" frameY="-18" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0001" x="2174" y="0" width="446" height="628" frameX="0" frameY="-18" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0002" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0003" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0004" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0005" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0006" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0007" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0008" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Left0009" x="2620" y="0" width="403" height="645" frameX="-25" frameY="0" frameWidth="446" frameHeight="646"/>
+	<SubTexture name="Skem Right0000" x="3023" y="0" width="280" height="684"/>
+	<SubTexture name="Skem Right0001" x="3023" y="0" width="280" height="684"/>
+	<SubTexture name="Skem Right0002" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0003" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0004" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0005" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0006" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0007" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0008" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0009" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0010" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0011" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0012" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Right0013" x="3303" y="0" width="261" height="682" frameX="-7" frameY="0" frameWidth="280" frameHeight="684"/>
+	<SubTexture name="Skem Up0000" x="3564" y="0" width="334" height="696" frameX="0" frameY="0" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0001" x="3564" y="0" width="334" height="696" frameX="0" frameY="0" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0002" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0003" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0004" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0005" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0006" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0007" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0008" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0009" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0010" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0011" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0012" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0013" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+	<SubTexture name="Skem Up0014" x="0" y="696" width="327" height="696" frameX="-3" frameY="-4" frameWidth="334" frameHeight="700"/>
+</TextureAtlas>

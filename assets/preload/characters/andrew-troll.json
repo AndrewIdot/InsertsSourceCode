@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "andrew troll idle"
+		},
+		{
+			"offsets": [
+				-60,
+				-162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "andrew troll left"
+		},
+		{
+			"offsets": [
+				-151,
+				152
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "andrew troll up"
+		},
+		{
+			"offsets": [
+				-210,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "andrew troll down"
+		},
+		{
+			"offsets": [
+				-20,
+				-154
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "andrew troll right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/andrew troll",
+	"position": [
+		40,
+		160
+	],
+	"healthicon": "andrew-sex",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		190,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

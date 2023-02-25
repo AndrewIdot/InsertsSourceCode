@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snoner.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Andrew Idle0000" x="0" y="0" width="285" height="601" frameX="-40" frameY="0" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0001" x="0" y="0" width="285" height="601" frameX="-40" frameY="0" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0002" x="285" y="0" width="310" height="596" frameX="-25" frameY="-7" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0003" x="285" y="0" width="310" height="596" frameX="-25" frameY="-7" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0004" x="595" y="0" width="338" height="597" frameX="0" frameY="-5" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0005" x="595" y="0" width="338" height="597" frameX="0" frameY="-5" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0006" x="933" y="0" width="324" height="599" frameX="-9" frameY="-3" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0007" x="933" y="0" width="324" height="599" frameX="-9" frameY="-3" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0008" x="1257" y="0" width="303" height="600" frameX="-18" frameY="-1" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0009" x="1257" y="0" width="303" height="600" frameX="-18" frameY="-1" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0010" x="1560" y="0" width="284" height="601" frameX="-41" frameY="0" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0011" x="1560" y="0" width="284" height="601" frameX="-41" frameY="0" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Andrew Idle0012" x="1844" y="0" width="284" height="601" frameX="-41" frameY="0" frameWidth="338" frameHeight="603"/>
+	<SubTexture name="Bitmap 1" x="2128" y="0" width="1163" height="1619"/>
+	<SubTexture name="Dad Chest0000" x="3291" y="0" width="117" height="215"/>
+	<SubTexture name="Dad default head0000" x="3408" y="0" width="160" height="227"/>
+	<SubTexture name="Dad default head0001" x="3408" y="0" width="160" height="227"/>
+	<SubTexture name="Dad default head0002" x="3408" y="0" width="160" height="227"/>
+	<SubTexture name="Dad default head0003" x="3408" y="0" width="160" height="227"/>
+	<SubTexture name="LEGS0000" x="3568" y="0" width="187" height="275"/>
+	<SubTexture name="andrew left arm0000" x="3755" y="0" width="60" height="205"/>
+	<SubTexture name="body0000" x="3815" y="0" width="127" height="264"/>
+	<SubTexture name="dad mic idle hand0000" x="0" y="1619" width="164" height="192"/>
+	<SubTexture name="dad wasit0000" x="164" y="1619" width="143" height="226"/>
+	<SubTexture name="face0000" x="307" y="1619" width="75" height="95"/>
+	<SubTexture name="jsona head0000" x="382" y="1619" width="252" height="269"/>
+	<SubTexture name="jsona idle0000" x="634" y="1619" width="431" height="732" frameX="-10" frameY="0" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0001" x="634" y="1619" width="431" height="732" frameX="-10" frameY="0" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0002" x="1065" y="1619" width="442" height="723" frameX="-7" frameY="-9" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0003" x="1065" y="1619" width="442" height="723" frameX="-7" frameY="-9" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0004" x="1507" y="1619" width="465" height="714" frameX="0" frameY="-19" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0005" x="1507" y="1619" width="465" height="714" frameX="0" frameY="-19" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0006" x="1972" y="1619" width="442" height="723" frameX="-7" frameY="-9" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0007" x="1972" y="1619" width="442" height="723" frameX="-7" frameY="-9" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0008" x="634" y="1619" width="431" height="732" frameX="-10" frameY="0" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0009" x="634" y="1619" width="431" height="732" frameX="-10" frameY="0" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0010" x="634" y="1619" width="431" height="732" frameX="-10" frameY="0" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="jsona idle0011" x="634" y="1619" width="431" height="732" frameX="-10" frameY="0" frameWidth="465" frameHeight="733"/>
+	<SubTexture name="left arm0000" x="2414" y="1619" width="63" height="235"/>
+	<SubTexture name="right arm lol0000" x="2477" y="1619" width="127" height="243"/>
+	<SubTexture name="tail woah furry??!??? ew wtf furry??? - every 4channer0000" x="2604" y="1619" width="288" height="198"/>
+</TextureAtlas>

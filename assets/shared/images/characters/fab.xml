@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fab.png"><SubTexture name="fab idle0000" x="0" y="629" width="175" height="308" frameX="-14" frameY="-23" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab idle0001" x="907" y="0" width="172" height="310" frameX="-15" frameY="-21" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab idle0002" x="489" y="316" width="171" height="311" frameX="-15" frameY="-20" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab idle0003" x="737" y="0" width="170" height="311" frameX="-15" frameY="-20" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab idle0004" x="0" y="316" width="168" height="313" frameX="-16" frameY="-18" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singRIGHT0000" x="354" y="0" width="189" height="314" frameX="-16" frameY="-17" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singRIGHT0001" x="543" y="0" width="194" height="314" frameX="-17" frameY="-17" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singLEFT0000" x="168" y="316" width="162" height="312" frameX="-2" frameY="-19" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singLEFT0001" x="330" y="316" width="159" height="312" frameX="0" frameY="-19" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singDOWN0000" x="175" y="629" width="180" height="276" frameX="-4" frameY="-55" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singDOWN0001" x="355" y="629" width="182" height="274" frameX="-2" frameY="-57" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singUP0000" x="177" y="0" width="177" height="315" frameX="-21" frameY="-16" frameWidth="215" frameHeight="375" />
+<SubTexture name="fab singUP0001" x="0" y="0" width="177" height="316" frameX="-21" frameY="-15" frameWidth="215" frameHeight="375" />
+</TextureAtlas>

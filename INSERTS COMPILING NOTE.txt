@@ -1,0 +1,7 @@
+if you can compile with discord rpc normally, simply delete 
+<haxelib name="discord_rpc.DiscordRpc" if="desktop"/>
+from project.xml
+
+if you cant, just install discord rpc under that name.
+
+- andrew

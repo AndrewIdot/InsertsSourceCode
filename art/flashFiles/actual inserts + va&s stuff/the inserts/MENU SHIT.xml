@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MENU SHIT.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FAB_MENU_IDLE instance 10000" x="0" y="0" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10001" x="0" y="0" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10002" x="811" y="0" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10003" x="811" y="0" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10004" x="0" y="432" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10005" x="0" y="432" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10006" x="811" y="432" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10007" x="811" y="432" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10008" x="0" y="864" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10009" x="0" y="864" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10010" x="0" y="864" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10011" x="0" y="864" width="811" height="432"/>
+	<SubTexture name="FAB_MENU_IDLE instance 10012" x="0" y="864" width="811" height="432"/>
+</TextureAtlas>
